@@ -1,0 +1,5 @@
+com\mail\EmailServiceApplication.class
+com\mail\model\Mail.class
+com\mail\Resource\MailController.class
+com\mail\service\MailServiceImpl.class
+com\mail\service\MailService.class
